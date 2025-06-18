@@ -1,1 +1,1 @@
-restart
+aws_restart
